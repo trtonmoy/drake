@@ -2366,14 +2366,15 @@ blockquote {
   position: relative;
   overflow: hidden;
   background-color: #16327a;
-  background-image: url("../63d7419afd62471dad3ea233_Slider-bg-1.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)),
+    url("../../../Flag-of-El-Salvador.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .slider-section.slider-two {
-  background-image: url("../63db8a993a20fd7b42bbafdd_Slider-bg-2.jpg");
+  /* background-image: url("../63db8a993a20fd7b42bbafdd_Slider-bg-2.jpg"); */
   background-position: 50% 50%;
   background-size: cover;
 }
